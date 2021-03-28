@@ -1,0 +1,16 @@
+/home/cyberpen/Scripts/c-sharp/Test1/bin/Debug/net5.0/Test1
+/home/cyberpen/Scripts/c-sharp/Test1/bin/Debug/net5.0/Test1.deps.json
+/home/cyberpen/Scripts/c-sharp/Test1/bin/Debug/net5.0/Test1.runtimeconfig.json
+/home/cyberpen/Scripts/c-sharp/Test1/bin/Debug/net5.0/Test1.runtimeconfig.dev.json
+/home/cyberpen/Scripts/c-sharp/Test1/bin/Debug/net5.0/Test1.dll
+/home/cyberpen/Scripts/c-sharp/Test1/bin/Debug/net5.0/ref/Test1.dll
+/home/cyberpen/Scripts/c-sharp/Test1/bin/Debug/net5.0/Test1.pdb
+/home/cyberpen/Scripts/c-sharp/Test1/obj/Debug/net5.0/Test1.csprojAssemblyReference.cache
+/home/cyberpen/Scripts/c-sharp/Test1/obj/Debug/net5.0/Test1.GeneratedMSBuildEditorConfig.editorconfig
+/home/cyberpen/Scripts/c-sharp/Test1/obj/Debug/net5.0/Test1.AssemblyInfoInputs.cache
+/home/cyberpen/Scripts/c-sharp/Test1/obj/Debug/net5.0/Test1.AssemblyInfo.cs
+/home/cyberpen/Scripts/c-sharp/Test1/obj/Debug/net5.0/Test1.csproj.CoreCompileInputs.cache
+/home/cyberpen/Scripts/c-sharp/Test1/obj/Debug/net5.0/Test1.dll
+/home/cyberpen/Scripts/c-sharp/Test1/obj/Debug/net5.0/ref/Test1.dll
+/home/cyberpen/Scripts/c-sharp/Test1/obj/Debug/net5.0/Test1.pdb
+/home/cyberpen/Scripts/c-sharp/Test1/obj/Debug/net5.0/Test1.genruntimeconfig.cache
